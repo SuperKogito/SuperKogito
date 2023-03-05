@@ -3,6 +3,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuperKogito&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuperKogito&theme=github) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superkogito&label=Profile%20views&color=0e75b6&style=flat" alt="superkogito" /> </p>
 
