@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superkogito&label=Profile%20views&color=0e75b6&style=flat" alt="superkogito" /> </p>
 
 <h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on **spafe, SER-datasets, etc.**
 
 - 🌱 I’m currently learning **Vue and more.**
